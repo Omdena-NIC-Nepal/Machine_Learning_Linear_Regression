@@ -1,32 +1,33 @@
-Machine Learning Beginner Project: Linear Regression
-Project Title: Predicting House Prices Using Linear Regression
+# Machine Learning Beginner Project: Linear Regression
+### Project Title: Predicting House Prices Using Linear Regression
 
-Objective: To introduce students to supervised learning, focusing on linear regression, by guiding them through a project that predicts house prices based on a variety of features.
+**Objective:** To introduce students to supervised learning, focusing on linear regression, by guiding them through a project that predicts house prices based on a variety of features.
 
-Dataset: We'll use the "Boston Housing Dataset" from the UCI Machine Learning Repository. This dataset contains information about housing in Boston, including features such as the number of rooms, age of the house, and crime rate, along with the target variable, which is the median value of owner-occupied homes.
+**Dataset:** We'll use the "Boston Housing Dataset" from the UCI Machine Learning Repository. This dataset contains information about housing in Boston, including features such as the number of rooms, age of the house, and crime rate, along with the target variable, which is the median value of owner-occupied homes.
 
-Project Structure:
+### Project Structure:
 
-Project Setup
-Data Exploration and Preprocessing
-Model Building and Training
-Model Evaluation
-Feature Engineering and Improvement
-Collaboration and Version Control
-1. Project Setup
-a. Create a GitHub Classroom Assignment
-Create a New Repository: Set up a new repository on GitHub.
-Invite Students: Use GitHub Classroom to invite students to the project, ensuring each student has their branch.
-Project Structure:
-kotlin
-Copy code
+- Data Exploration and Preprocessing
+- Model Building and Training
+- Model Evaluation
+- Feature Engineering and Improvement
+- Collaboration and Version Control
+  
+
 ├── data
+
 │   └── boston_housing.csv
+
 ├── notebooks
+
 │   ├── EDA.ipynb
+
 │   ├── Data_Preprocessing.ipynb
+
 │   ├── Model_Training.ipynb
+
 │   └── Model_Evaluation.ipynb
+
 ├── scripts
 │   ├── data_preprocessing.py
 │   ├── train_model.py
