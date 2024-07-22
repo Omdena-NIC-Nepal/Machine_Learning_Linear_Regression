@@ -15,11 +15,8 @@
   
 
 ├── data
-
 │   └── boston_housing.csv
-
 ├── notebooks
-
 │   ├── EDA.ipynb
 
 │   ├── Data_Preprocessing.ipynb
